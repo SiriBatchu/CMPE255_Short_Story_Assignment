@@ -4,8 +4,8 @@
 
 Youtube: https://youtu.be/uz1Ic0e69Ng
 
-Medium Article: Medium Article
+Medium Article: https://medium.com/@bsirigupta/unveiling-generative-techniques-in-spatial-temporal-data-mining-4c3bfb1afe1f
 
-Slide Deck : Slide Deck
+Slide Deck : https://www.slideshare.net/slideshow/generative_techniques_spatial_temporal_data_mining-pptx/273749587
 
 Research Paper : https://arxiv.org/pdf/2405.09592
