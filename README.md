@@ -2,7 +2,7 @@
 
 # A Survey of Generative Techniques for Spatial-Temporal Data Mining
 
-Youtube: https://youtu.be/uz1Ic0e69Ng
+Youtube: https://youtu.be/QArAzmIJhV0
 
 Medium Article: https://medium.com/@bsirigupta/unveiling-generative-techniques-in-spatial-temporal-data-mining-4c3bfb1afe1f
 
